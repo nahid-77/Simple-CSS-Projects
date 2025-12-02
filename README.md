@@ -28,7 +28,6 @@ A creative project showcasing:
 * Buttons and components
 * UI design techniques
 
-(*Update with details when ready*)
 
 ---
 
@@ -43,7 +42,6 @@ A modern blog-style card layout similar to the preview image. Features include:
 * Clean typography
 * Box shadow and border-radius effects
 
-(*Update with details when ready*)
 
 ---
 
