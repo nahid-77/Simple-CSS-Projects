@@ -9,7 +9,30 @@ A collection of three beginner-to-intermediate CSS projects designed to strength
 
 ## 📁 Projects Included
 
-### 1. Blog Cards Layout (Codehelp Blogs)
+### 1. Project One (Recipe World)
+
+A CSS-based layout project focused on:
+
+* Page structure
+* Alignment
+* Flexbox or Grid
+* Visual styling
+
+---
+
+### 2. Project Two (Two simple cards)
+
+A creative project showcasing:
+
+* Colors and typography
+* Buttons and components
+* UI design techniques
+
+(*Update with details when ready*)
+
+---
+
+### 3. Project Three: Blog Cards Layout (Codehelp Blogs)
 
 A modern blog-style card layout similar to the preview image. Features include:
 
@@ -19,29 +42,6 @@ A modern blog-style card layout similar to the preview image. Features include:
 * Category tags
 * Clean typography
 * Box shadow and border-radius effects
-
----
-
-### 2. Project Two (Add Name)
-
-A CSS-based layout project focused on:
-
-* Page structure
-* Alignment
-* Flexbox or Grid
-* Visual styling
-
-(*Update with details when ready*)
-
----
-
-### 3. Project Three (Add Name)
-
-A creative project showcasing:
-
-* Colors and typography
-* Buttons and components
-* UI design techniques
 
 (*Update with details when ready*)
 
